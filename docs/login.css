@@ -3,7 +3,7 @@ body{
 	padding:0;
 	font-family: sans-serif;
 	background-size: cover;
-	background-image: url("../images/space.gif");
+	background-image: url("images/space.gif");
 }
 .box{
 	width:300px;

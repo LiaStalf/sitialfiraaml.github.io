@@ -108,7 +108,7 @@ nav{
 	max-height: calc(100vh - 56px);
 	overflow-y: auto;
 	background-size: cover;
-	background-image: url("../images/skrr.gif");
+	background-image: url("images/skrr.gif");
 }
 
 .z{
